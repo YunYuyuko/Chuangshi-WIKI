@@ -1,6 +1,5 @@
 # Table of contents
 
-- [Introduction](README.md)
 - [欢迎加入创世倾域（Chuangshi）！](huan-ying-jia-ru-chuang-shi-qing-yu-chuangshi.md)
 - [创世倾域（Chuangshi）在新伊甸](part0.md)
 - [如何提问](how-to-ask-questions.md)
