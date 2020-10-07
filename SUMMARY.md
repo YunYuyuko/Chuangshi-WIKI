@@ -24,11 +24,6 @@
   * [2.前往驻地](join-chuangshi/2.2.md)
   * [3.00 设置](join-chuangshi/2.3.md)
   * [4.入团须知](join-chuangshi/2.4.md)
-* [PVP](pvp/README.md)
-  * [舰船装配指南](pvp/fitting.md)
-  * [五度扫描和反侦查](pvp/wu-du-sao-miao-he-fan-zhen-cha.md)
-  * [1. 舰船与装备详细知识扫盲](pvp/knowledge.md)
-  * [2. 新人跟队指南](pvp/follow.md)
 * [军团相关路线](navigation.md)
 
 ## 生产
@@ -78,6 +73,13 @@
   * [EVE 的主流交易方式-合同](ji-zhi/basic-operation/eve-de-zhu-liu-jiao-yi-fang-shi-he-tong.md)
   * [跑路安全手册](ji-zhi/basic-operation/pao-lu.md)
   * [做点](ji-zhi/basic-operation/pin.md)
+
+## 作战
+
+* [2. 新人跟队指南](zuo-zhan/follow.md)
+* [五度扫描和反侦查](zuo-zhan/wu-du-sao-miao-he-fan-zhen-cha.md)
+* [获取舰船配置](zuo-zhan/eft.md)
+* [舰船装配思路](zuo-zhan/fitting.md)
 
 ## 工具、网站
 
