@@ -29,6 +29,7 @@
 ## 生产
 
 * [异常、死亡](sheng-chan/anomalies-and-signatures/README.md)
+  * [刷怪规定中文](https://forums.winterco.org/t/topic/145)
   * [安全生产](sheng-chan/anomalies-and-signatures/safe.md)
   * [欧莎生产](sheng-chan/anomalies-and-signatures/ou-suo-sheng-chan/README.md)
     * [【攻略】无人机 10-10 扩张自由无人机母巢](https://forums.winterco.org/t/topic/1382)
