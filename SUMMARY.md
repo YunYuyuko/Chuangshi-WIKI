@@ -76,7 +76,7 @@
 
 ## 作战
 
-* [2. 新人跟队指南](zuo-zhan/follow.md)
+* [新人跟队指南](zuo-zhan/follow.md)
 * [五度扫描和反侦查](zuo-zhan/wu-du-sao-miao-he-fan-zhen-cha.md)
 * [获取舰船配置](zuo-zhan/eft.md)
 * [舰船装配思路](zuo-zhan/fitting.md)
