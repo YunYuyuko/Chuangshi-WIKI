@@ -49,7 +49,7 @@
   - [考古挖坟入门](https://www.docdroid.net/QcaNyro/eve-by-pdf)
   - [新人打捞入门](sheng-chan/profession-1/salvage.md)
 
-## 机制 <a id="mechanics"></a>
+## 机制
 
 - [舰船机制](mechanics/ship-mechanics/README.md)
   - [电容](mechanics/ship-mechanics/capacitor.md)
@@ -80,7 +80,7 @@
   - [跑路安全手册](mechanics/basic-operation/pao-lu.md)
   - [做点](mechanics/basic-operation/pin.md)
 
-## 工具、网站 <a id="tools-and-webs"></a>
+## 工具、网站
 
 - [联盟、军团工具及网站](tools-and-webs/alli-and-crop-tool-and-webs/README.md)
   - [DKP（贡献点）系统](tools-and-webs/alli-and-crop-tool-and-webs/dkp-system.md)
