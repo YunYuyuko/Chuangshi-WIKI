@@ -1,4 +1,4 @@
-# QQ群
+# QQ 群
 
 ## 联盟QQ群 <a id="ji-jie-qq-qun"></a>
 
