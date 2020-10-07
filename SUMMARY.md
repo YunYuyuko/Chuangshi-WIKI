@@ -1,6 +1,7 @@
 # Table of contents
 
-* [欢迎加入创世倾域（Chuangshi）！](README.md)
+* [Introduction](README.md)
+* [欢迎加入创世倾域（Chuangshi）！](huan-ying-jia-ru-chuang-shi-qing-yu-chuangshi.md)
 * [创世倾域（Chuangshi）在新伊甸](part0.md)
 * [如何提问](how-to-ask-questions.md)
 * [进入新伊甸](join-new-eden/README.md)
@@ -86,7 +87,7 @@
   * [QQ 邮箱收不到验证码的处理方法](tools-and-webs/alli-and-crop-tool-and-webs/qq-you-xiang-shou-bu-dao-yan-zheng-ma-de-chu-li-fang-fa.md)
   * [联盟 SSO 认证（SeAT）](tools-and-webs/alli-and-crop-tool-and-webs/seat.md)
   * [Mumble 介绍及使用方法](tools-and-webs/alli-and-crop-tool-and-webs/mumble.md)
-  * [加入联盟集结 QQ 群](tools-and-webs/alli-and-crop-tool-and-webs/qq-group.md)
+  * [QQ群](tools-and-webs/alli-and-crop-tool-and-webs/qq-group.md)
   * [Seat 工具使用](tools-and-webs/alli-and-crop-tool-and-webs/seattools.md)
 * [第三方工具，网站](tools-and-webs/thrid-tools-and-webs/README.md)
   * [其他网站、工具](tools-and-webs/thrid-tools-and-webs/others.md)
