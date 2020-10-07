@@ -1,24 +1,26 @@
-# 加入联盟集结 QQ 群
+# QQ群
 
-## 集结QQ群 <a id="ji-jie-qq-qun"></a>
+## 联盟QQ群 <a id="ji-jie-qq-qun"></a>
 
-起队信息同步发在集结QQ群中
+### 绑定QQ
 
-### 申请步骤 <a id="shen-qing-bu-zhou"></a>
+{% embed url="https://wiki.chuangshiqingyu.com/tools-and-webs/alli-and-crop-tool-and-webs/seat\#3-she-zhi-bang-ding-qq" %}
 
-当前集结QQ群采用自助申请模式，登陆
+### 自助申请
 
-{% embed url="https://seat.winterco.org/home" caption="点击进入联盟SeAT系统" %}
+*  集结群 `155057693`：这是发布起队信息，和重要公告的地方。所有人，不管是否AFK，只要有资产在联盟驻地内，**必须关注此群的群公告**。
 
-左边工具栏选择QQ
+![](../../.gitbook/assets/9a9bd37f7cab1646cdd03881148a6b10953235b0.png)
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDRsD3ZfUW7f5sn4XAR%2F-LkNyLGw8kSknUAZnr74%2F-LkNz5dq-EVc1wNyxItQ%2Fimage.png?alt=media&token=3428c8ee-c6b1-4227-af36-71f34c85d310)
+*  聊天内群 `617939467`：联盟内互相交流的群组。
 
-提交你的QQ号
+![](../../.gitbook/assets/7ae23cfab48b3ae52d7e561f07b5c1bad291e4da.png)
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDRsD3ZfUW7f5sn4XAR%2F-LkNyLGw8kSknUAZnr74%2F-LkNzH8bHeSEwT8_m8HM%2Fimage.png?alt=media&token=38932e01-7954-4972-b689-a07dda8ebafe)
+{% hint style="info" %}
+以上群组为机器人审核，无需编辑入群申请内容。仅入团后才可加入，如已入团而被拒绝，请等待 1 ~ 2小时数据更新，或者检查 SSO 是否失效。
+{% endhint %}
 
-然后自助申请下面的两个QQ群即可。
+## 军团QQ群
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LDRsD3ZfUW7f5sn4XAR%2F-LkNyLGw8kSknUAZnr74%2F-LkNzWirjX2x4cIKd3Rz%2Fimage.png?alt=media&token=15536201-fc9f-4849-9b04-9ee2169d166d)
+**入团 &gt; 1个月** 或 **DKP + Pap ≥ 6** ，自行私聊`加一（1339736246）`或`44（462902059）`申请进入
 
