@@ -92,6 +92,7 @@
   * [QQ 群](gong-ju-wang-zhan/alli-and-crop-tool-and-webs/qq-group.md)
   * [Seat 工具使用](gong-ju-wang-zhan/alli-and-crop-tool-and-webs/seattools.md)
 * [第三方工具，网站](gong-ju-wang-zhan/thrid-tools-and-webs/README.md)
+  * [战斗报告](gong-ju-wang-zhan/thrid-tools-and-webs/battle-report.md)
   * [其他网站、工具](gong-ju-wang-zhan/thrid-tools-and-webs/others.md)
   * [Near2 预警设置](gong-ju-wang-zhan/thrid-tools-and-webs/near2-yu-jing-she-zhi.md)
   * [Dotlan 规划带跳桥路径](gong-ju-wang-zhan/thrid-tools-and-webs/dotlan.md)
