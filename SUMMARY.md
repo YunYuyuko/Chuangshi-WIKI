@@ -62,6 +62,7 @@
     - [导弹力学](mechanics/weapon-mechanics/missile-1/missile-mechanics.md)
   - [炮台](mechanics/weapon-mechanics/turrets/README.md)
     - [炮台概述](mechanics/weapon-mechanics/turrets/turret-overview.md)
+    - [炮台力学](mechanics/weapon-mechanics/turrets/turret-mechanics.md)
   - [装备堆叠惩罚](mechanics/weapon-mechanics/stacking-penalties.md)
 - [基础操作](mechanics/basic-operation/README.md)
   - [常用快捷键](mechanics/basic-operation/shortcut.md)
