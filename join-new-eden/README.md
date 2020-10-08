@@ -9,7 +9,7 @@
 | 1.认识 EVE 与 CCP | [https://wiki.chuangshiqingyu.com/part1/what-is-eveonline](https://wiki.chuangshiqingyu.com/part1/what-is-eveonline) |
 | 2.EVE 欧服官网及相关网址 | [https://wiki.chuangshiqingyu.com/part1/eveonline-website](https://wiki.chuangshiqingyu.com/part1/eveonline-website) |
 | 3.使用链接注册 | [https://wiki.chuangshiqingyu.com/join-new-eden/register](https://wiki.chuangshiqingyu.com/join-new-eden/register) |
-| 4.下载游戏 | [https://wiki.chuangshiqingyu.com/part1/download-gam](https://wiki.chuangshiqingyu.com/part1/download-game) |
+| 4.下载游戏 | [https://wiki.chuangshiqingyu.com/join-new-eden/download-gam](https://wiki.chuangshiqingyu.com/join-new-eden/download-game) |
 | 5.汉化补丁 | [https://wiki.chuangshiqingyu.com/join-new-eden/chinese](https://wiki.chuangshiqingyu.com/join-new-eden/chinese) |
 | 6.进入游戏 | [https://wiki.chuangshiqingyu.com/join-new-eden/join](https://wiki.chuangshiqingyu.com/join-new-eden/join) |
 | 7.创建角色 | [https://wiki.chuangshiqingyu.com/join-new-eden/create](https://wiki.chuangshiqingyu.com/join-new-eden/create) |
