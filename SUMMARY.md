@@ -76,7 +76,7 @@
   - [充值月卡、PLEX](mechanics/basic-operation/recharge.md)
   - [PLEX 出售方法](mechanics/basic-operation/sell-plex.md)
 
-## 作战
+## 作战 <a id="pvp"></a>
 
 - [新人跟队指南](pvp/follow.md)
 - [获取舰船配置](pvp/eft.md)
@@ -84,7 +84,7 @@
 - [五度扫描和反侦查](pvp/5scan)
 - [跑路安全手册](pvp/flee.md)
 
-## 工具
+## 工具 <a id="tools"></a>
 
 - [联盟、军团工具及网站](tools/alli-tools/README.md)
   - [DKP（贡献点）系统](tools/alli-tools/dkp-system.md)
