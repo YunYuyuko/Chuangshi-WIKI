@@ -26,7 +26,7 @@
   - [4.入团须知](join-chuangshi/2.4.md)
 - [军团相关路线](navigation.md)
 
-## 生产
+## 生产 <a id="produce"></a>
 
 - [异常、死亡](produce/rat/README.md)
   - [刷怪规定中文](https://forums.winterco.org/t/topic/145)
@@ -44,7 +44,7 @@
   - [考古挖坟入门](https://www.docdroid.net/QcaNyro/eve-by-pdf)
   - [新人打捞入门](produce/profession/salvage.md)
 
-## 机制
+## 机制 <a id="mechanics"></a>
 
 - [舰船机制](mechanics/ship-mechanics/README.md)
   - [电容](mechanics/ship-mechanics/capacitor.md)
