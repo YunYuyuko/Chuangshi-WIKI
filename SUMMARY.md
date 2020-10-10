@@ -65,7 +65,7 @@
     - [炮台力学](mechanics/weapon-mechanics/turrets/turret-mechanics.md)
   - [装备堆叠惩罚](mechanics/weapon-mechanics/stacking-penalties.md)
 - [基础操作](mechanics/basic-operation/README.md)
-  - [技能及人物面板](mechanics/basic-operation/skill-and-character-sheet.md.md)
+  - [技能及人物面板](mechanics/basic-operation/skill-character.md)
   - [常用快捷键](mechanics/basic-operation/shortcut.md)
   - [做点](mechanics/basic-operation/pin.md)
   - [远征交易](mechanics/basic-operation/escalation.md)
