@@ -1,6 +1,6 @@
-# QQ 邮箱收不到验证码的处理方法
+# 邮箱收不到验证码处理方法
 
-.很多朋友反应QQ邮箱收不到验证码，遇到这种问题 发送ticked是非常慢的，我们可以联系在线客服处理
+.很多朋友反应 QQ 邮箱收不到验证码，遇到这种问题 发送 ticked 是非常慢的，我们可以联系在线客服处理
 
 #### 联系在线客服
 
@@ -8,7 +8,7 @@
 
 {% embed url="https://secure.eveonline.com/forgotpassword.aspx" %}
 
-2.打开网址5秒后，页面右下角弹出“在线交谈”按钮，点击
+2.打开网址 5 秒后，页面右下角弹出“在线交谈”按钮，点击
 
 ![](../../.gitbook/assets/wei-xin-jie-tu-20191207002918.png)
 
@@ -21,7 +21,6 @@
 第三行填写范本 范本如下：  
 I can't receive the verification code when I log in the game. My email is: （这里填写你的邮箱）, account is: （这里填写你的账户）, character name is: （这里填写你的角色名）
 
-然后你就会加入GM的聊天队列，GM看到消息后会处理，并让你重新登录。
+然后你就会加入 GM 的聊天队列，GM 看到消息后会处理，并让你重新登录。
 
 然后你就可以收到邮件了。
-
