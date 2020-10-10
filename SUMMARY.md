@@ -81,7 +81,7 @@
 - [新人跟队指南](pvp/follow.md)
 - [获取舰船配置](pvp/eft.md)
 - [舰船装配思路](pvp/fitting.md)
-- [五度扫描和反侦查](pvp/5scan)
+- [五度扫描和反侦查](pvp/5scan.md)
 - [跑路安全手册](pvp/flee.md)
 
 ## 工具 <a id="tools"></a>
