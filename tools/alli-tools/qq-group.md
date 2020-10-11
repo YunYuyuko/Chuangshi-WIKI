@@ -4,15 +4,15 @@
 
 ### 绑定QQ
 
-{% embed url="https://wiki.chuangshiqingyu.com/tools-and-webs/alli-and-crop-tool-and-webs/seat\#3-she-zhi-bang-ding-qq" %}
+{% embed url="https://wiki.chuangshiqingyu.com/tools-and-webs/alli-and-crop-tool-and-webs/seat\#3-she-zhi-bang-ding-qq" caption="" %}
 
 ### 自助申请
 
-*  集结群 `155057693`：这是发布起队信息，和重要公告的地方。所有人，不管是否AFK，只要有资产在联盟驻地内，**必须关注此群的群公告**。
+* 集结群 `155057693`：这是发布起队信息，和重要公告的地方。所有人，不管是否AFK，只要有资产在联盟驻地内，**必须关注此群的群公告**。
 
 ![](../../.gitbook/assets/9a9bd37f7cab1646cdd03881148a6b10953235b0.png)
 
-*  聊天内群 `617939467`：联盟内互相交流的群组。
+* 聊天内群 `617939467`：联盟内互相交流的群组。
 
 ![](../../.gitbook/assets/7ae23cfab48b3ae52d7e561f07b5c1bad291e4da.png)
 

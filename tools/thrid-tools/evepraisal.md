@@ -12,7 +12,7 @@ description: 创作者：Fraternity.联盟 Fuxi Legion公司 Link Noel（林克�
 
 ## 网站链接 <a id="wang-zhan-lian-jie"></a>
 
-{% embed url="https://evepraisal.com/" %}
+{% embed url="https://evepraisal.com/" caption="" %}
 
 ## 空间站仓库物品估价 <a id="kong-jian-zhan-cang-ku-wu-pin-gu-jia"></a>
 

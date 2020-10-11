@@ -1,6 +1,6 @@
 # Dotlan 规划带跳桥路径
 
-{% embed url="https://evemaps.dotlan.net/" %}
+{% embed url="https://evemaps.dotlan.net/" caption="" %}
 
 ## 订阅跳桥文件
 
@@ -18,7 +18,7 @@
 
 进入FRT联盟论坛
 
-{% embed url="https://forums.winterco.org/" %}
+{% embed url="https://forums.winterco.org/" caption="" %}
 
 右上角搜索 `dotlan` 即可获得他人帮忙制作的跳桥文件
 
@@ -28,25 +28,25 @@
 
 ![](../../.gitbook/assets/snipaste_2020-08-21_22-53-49.png)
 
-点击上方 `Subscribed` 
+点击上方 `Subscribed`
 
 ![](../../.gitbook/assets/snipaste_2020-08-21_22-54-11.png)
 
 ## 规划带跳桥路径
 
-点击上方 `Navigation` 
+点击上方 `Navigation`
 
 ![](../../.gitbook/assets/snipaste_2020-08-21_22-54-31.png)
 
-选择 `Route Planner` 
+选择 `Route Planner`
 
 ![](../../.gitbook/assets/snipaste_2020-08-21_22-54-50.png)
 
-以 **起点、终点** 的顺序输入星系，输入后点击`add` 
+以 **起点、终点** 的顺序输入星系，输入后点击`add`
 
 ![](../../.gitbook/assets/snipaste_2020-08-21_22-57-15.png)
 
-选择下方订阅的跳桥文件，然后点击 `GO` 
+选择下方订阅的跳桥文件，然后点击 `GO`
 
 ![](../../.gitbook/assets/snipaste_2020-08-21_22-57-36.png)
 

@@ -22,7 +22,7 @@
 
 进入`evetools`
 
-{% embed url="https://br.evetools.org/create" %}
+{% embed url="https://br.evetools.org/create" caption="" %}
 
 设置好星系，时间，点击 `Analyze` 分析
 

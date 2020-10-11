@@ -2,10 +2,6 @@
 
 这是新人手册的最后一部分，也是最为琐碎的一个部分，这里将介绍有关联盟，游戏，战斗相关等等的相关软件、网页等的使用方法教程，很多很细，各位可以选择自己需要的章节进行阅读。
 
-
-
-
-
 | 目录 | 链接 |
 | :--- | :--- |
 | 1.联盟SSO认证（SeAT） | [https://wiki.chuangshiqingyu.com/tools/seat](https://wiki.chuangshiqingyu.com/tools/seat) |

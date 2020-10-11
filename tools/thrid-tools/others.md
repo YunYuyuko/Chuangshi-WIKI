@@ -95,5 +95,3 @@
 * eve-o-preview [https://github.com/Phrynohyas/eve-o-preview/releases](https://github.com/Phrynohyas/eve-o-preview/releases) ：多开软件
 * EveVision [https://eve.vision/](https://eve.vision/) ：官方支持第三方软件，可游戏内打开，工具集合，地图，google翻译，深渊市场，D-Scan
 
-
-

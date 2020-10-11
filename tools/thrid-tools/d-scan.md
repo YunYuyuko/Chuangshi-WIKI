@@ -2,9 +2,9 @@
 
 在此提供两个D-Scan网站，第一个是欧服目前普遍使用的网站，功能齐全，但有些玩家可能因为网络问题无法使用，第二个是替代网站，无法使用第一个网站的可以使用第二个。
 
-1）	[https://dscan.info/](https://dscan.info/)
+1） [https://dscan.info/](https://dscan.info/)
 
-2）	[http://tools.ceve-market.org/](http://tools.ceve-market.org/)
+2） [http://tools.ceve-market.org/](http://tools.ceve-market.org/)
 
 ## 什么是D-Scan？
 
@@ -16,9 +16,9 @@
 
 ![](../../.gitbook/assets/tim-jie-tu-20191202223535.jpg)
 
-首先打开D-Scan网站，
+首先打开D-Scan网站 ，
 
-之后切换到游戏，在太空中按“V”，打开舰载扫描，
+之后切换到游戏，在太空中按“V”，打开舰载扫描 ，
 
 选择距离14.3AU，选择范围360°，点击SCAN进行扫描
 
@@ -37,6 +37,4 @@
 得出扫描结果后复制网页链接到舰队中发送，指挥官即可点击连接直接查看D-Scan结果
 
 ![](../../.gitbook/assets/tim-jie-tu-20191202224207.jpg)
-
-
 

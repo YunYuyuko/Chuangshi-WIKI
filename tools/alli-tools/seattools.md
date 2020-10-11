@@ -4,7 +4,7 @@
 
 seat是联盟常用的工具之一，其中可以查询很多信息
 
-{% embed url="https://seat.winterco.org/home" %}
+{% embed url="https://seat.winterco.org/home" caption="" %}
 
 ## PAP
 
@@ -34,7 +34,7 @@ seat是联盟常用的工具之一，其中可以查询很多信息
 
 ![](../../.gitbook/assets/snipaste_2020-08-09_11-31-52.png)
 
-游戏内`人物链接` &gt; `交互` &gt; `战斗记录` ，左上角设置为`击毁` 
+游戏内`人物链接` &gt; `交互` &gt; `战斗记录` ，左上角设置为`击毁`
 
 右键舰船欲补损舰船，复制外部链接
 
@@ -60,14 +60,14 @@ seat是联盟常用的工具之一，其中可以查询很多信息
 
 等待补损官完毕后，黄色的“Pending”会变成“Reject”或“Paid out”取决于你的KM提交是否正确
 
-Reject：舰队信息不对/船型不对/配置不对/ 本次申请补损未通过   
+Reject：舰队信息不对/船型不对/配置不对/ 本次申请补损未通过  
 Paid Out：本次补损成功，SRP已经发放
 
 ![](../../.gitbook/assets/assets_-ldrsd3zfuw7f5sn4xar_-lwk22sdzzacf_rl_jzu_-lwk3butk9wkqpq1cdfx_image.png)
 
 ## 月矿时间
 
-`工具` &gt; `Moon Calendar`  即可查看联盟月矿时间，届时将会起莲花队
+`工具` &gt; `Moon Calendar` 即可查看联盟月矿时间，届时将会起莲花队
 
 ![](../../.gitbook/assets/snipaste_2020-08-09_11-15-28.png)
 

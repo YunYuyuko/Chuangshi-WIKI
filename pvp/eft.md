@@ -2,7 +2,7 @@
 
 ## 联盟建制
 
-{% embed url="https://wiki.chuangshiqingyu.com/pvp/follow#jian-zhi" caption="" %}
+{% embed url="https://wiki.chuangshiqingyu.com/pvp/follow\#jian-zhi" caption="" %}
 
 ## 军团装配
 
@@ -39,3 +39,4 @@
 ![](../.gitbook/assets/snipaste_2020-10-07_21-28-20.png)
 
 进阶搜索详见：[zkillborad 进阶搜索](https://wiki.chuangshiqingyu.com/tools/thrid-tools/zkillborad-advance-search)
+

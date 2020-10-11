@@ -68,7 +68,7 @@ Alt + D与V的不同之处在于，Alt + D仅仅只是打开舰载扫描页面�
 
 ![](../.gitbook/assets/8.png)
 
-将Asteroid Belt取消，  则页面右边的星系图不再显示行星带
+将Asteroid Belt取消， 则页面右边的星系图不再显示行星带
 
 ![](../.gitbook/assets/9.png)
 
@@ -79,7 +79,7 @@ Alt + D与V的不同之处在于，Alt + D仅仅只是打开舰载扫描页面�
 ![](../.gitbook/assets/11.png)
 
 ![](file:///C:/Users/ZY/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)  
- 舰载扫描页面
+舰载扫描页面
 
 ![](../.gitbook/assets/12.png)
 
@@ -146,6 +146,4 @@ Alt + D与V的不同之处在于，Alt + D仅仅只是打开舰载扫描页面�
 而舰队D-SCAN是一个舰队斥候必须要学会的操作，
 
 在此提供如何使用舰队D-SCAN来为指挥官提供正确而有效的信息的方法：
-
-
 
