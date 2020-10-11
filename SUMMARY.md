@@ -49,7 +49,7 @@
 * [舰船机制](mechanics/ship-mechanics/README.md)
   * [电容](mechanics/ship-mechanics/capacitor.md)
   * [信号半径](mechanics/ship-mechanics/signature-radius.md)
-  * [各势力舰船总览](mechanics/ship-mechanics/ge-shi-li-jian-chuan-zong-lan.md)
+  * [各势力舰船总览](mechanics/ship-overview.md)
   * [舰船](mechanics/ship-mechanics/ship/README.md)
     * [护卫](mechanics/ship-mechanics/ship/hu-wei.md)
     * [驱逐](mechanics/ship-mechanics/ship/destroyers.md)
