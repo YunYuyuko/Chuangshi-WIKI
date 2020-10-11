@@ -7,7 +7,7 @@
   * [1.认识 EVE 与 CCP](join-neweden/eve.md)
   * [2.EVE 欧服官网及相关网址](join-neweden/eve-webs.md)
   * [3.使用链接注册](join-neweden/registe.md)
-  * [4.下载游戏](join-neweden/4.-xia-zai-you-xi.md)
+  * [4.下载游戏](join-neweden/download.md)
   * [5.汉化补丁](join-neweden/chinese.md)
   * [6.进入游戏](join-neweden/join.md)
   * [7.创建角色](join-neweden/create.md)
