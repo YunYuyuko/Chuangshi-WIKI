@@ -51,7 +51,7 @@
   * [信号半径](mechanics/ship-mechanics/signature-radius.md)
   * [各势力舰船总览](mechanics/ship-overview.md)
   * [舰船](mechanics/ship-mechanics/ship/README.md)
-    * [护卫](mechanics/ship-mechanics/ship/hu-wei.md)
+    * [护卫](mechanics/ship-mechanics/ship/frigates.md)
     * [驱逐](mechanics/ship-mechanics/ship/destroyers.md)
     * [巡洋](mechanics/ship-mechanics/ship/cruisers.md)
     * [战列巡洋舰](mechanics/ship-mechanics/ship/battlecruisers.md)
