@@ -49,7 +49,7 @@
 * [舰船机制](mechanics/ship-mechanics/README.md)
   * [电容](mechanics/ship-mechanics/capacitor.md)
   * [信号半径](mechanics/ship-mechanics/signature-radius.md)
-  * [各势力舰船总览](mechanics/ship-overview.md)
+  * [各势力舰船总览](mechanics/ship-mechanics/ge-shi-li-jian-chuan-zong-lan.md)
   * [舰船](mechanics/ship-mechanics/ship/README.md)
     * [护卫](mechanics/ship-mechanics/ship/frigates.md)
     * [驱逐](mechanics/ship-mechanics/ship/destroyers.md)
@@ -104,3 +104,4 @@
   * [D-Scan 网站及使用方法](tools/thrid-tools/d-scan.md)
   * [欧服汉化网站](https://zhpatch2.evemodx.com/)
   * [取消第三方应用申请](tools/thrid-tools/del-app.md)
+
