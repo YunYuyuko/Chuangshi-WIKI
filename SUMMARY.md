@@ -103,4 +103,4 @@
   * [估价网站](tools/thrid-tools/evepraisal.md)
   * [D-Scan 网站及使用方法](tools/thrid-tools/d-scan.md)
   * [欧服汉化网站](https://zhpatch2.evemodx.com/)
-
+  * [取消第三方应用申请](tools/thrid-tools/del-app.md)
