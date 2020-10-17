@@ -25,6 +25,17 @@
   * [3.00 设置](join-chuangshi/2.3.md)
   * [4.入团须知](join-chuangshi/2.4.md)
 * [军团相关路线](navigation.md)
+* [基础操作](mechanics/basic-operation/README.md)
+  * [技能及人物面板](mechanics/basic-operation/skill-character.md)
+  * [常用快捷键](basic-operation/shortcut.md)
+  * [做点](basic-operation/pin.md)
+  * [远征交易](basic-operation/escalation.md)
+  * [探针扫描](basic-operation/probe-scan.md)
+  * [仓库过滤](basic-operation/filter.md)
+  * [保险机制](basic-operation/insurance.md)
+  * [合同](basic-operation/contract.md)
+  * [充值月卡、PLEX](basic-operation/recharge.md)
+  * [PLEX 出售方法](basic-operation/sell-plex.md)
 
 ## 生产 <a id="produce"></a>
 
@@ -65,17 +76,6 @@
   * [炮台](mechanics/weapon-mechanics/turrets/README.md)
     * [炮台概述](mechanics/weapon-mechanics/turrets/turret-overview.md)
     * [炮台力学](mechanics/weapon-mechanics/turrets/turret-mechanics.md)
-* [基础操作](mechanics/basic-operation/README.md)
-  * [技能及人物面板](mechanics/basic-operation/skill-character.md)
-  * [常用快捷键](mechanics/basic-operation/shortcut.md)
-  * [做点](mechanics/basic-operation/pin.md)
-  * [远征交易](mechanics/basic-operation/escalation.md)
-  * [探针扫描](mechanics/basic-operation/probe-scan.md)
-  * [仓库过滤](mechanics/basic-operation/filter.md)
-  * [保险机制](mechanics/basic-operation/insurance.md)
-  * [合同](mechanics/basic-operation/contract.md)
-  * [充值月卡、PLEX](mechanics/basic-operation/recharge.md)
-  * [PLEX 出售方法](mechanics/basic-operation/sell-plex.md)
 
 ## 作战 <a id="pvp"></a>
 
