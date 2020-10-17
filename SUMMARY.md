@@ -36,6 +36,7 @@
   * [合同](basic-operation/contract.md)
   * [充值月卡、PLEX](basic-operation/recharge.md)
   * [PLEX 出售方法](basic-operation/sell-plex.md)
+  * [修复客户端](basic-operation/fix-launcher.md)
 
 ## 生产 <a id="produce"></a>
 
