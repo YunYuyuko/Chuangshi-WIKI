@@ -42,7 +42,8 @@
 
 * [异常、死亡](produce/rat/README.md)
   * [刷怪规定中文](https://forums.winterco.org/t/topic/145)
-  * [安全生产](produce/rat/save.md)
+  * [安全生产](produce/rat/safe.md)
+  * [旗舰安全生产手册](produce/rat/super-safe.md)
   * [欧莎生产](produce/rat/oasa/README.md)
     * [无人机刷怪](produce/rat/oasa/drone.md)
     * [金鹏速刷扩张自由无人机母巢（10-10）](produce/rat/oasa/jin-peng-su-shua-kuo-zhang-zi-you-wu-ren-ji-mu-chao-1010.md)
