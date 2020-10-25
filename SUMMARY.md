@@ -37,6 +37,7 @@
   * [充值月卡、PLEX](basic-operation/recharge.md)
   * [PLEX 出售方法](basic-operation/sell-plex.md)
   * [修复客户端](basic-operation/fix-launcher.md)
+  * [回到高安](basic-operation/back-to-hsec.md)
 
 ## 生产 <a id="produce"></a>
 
