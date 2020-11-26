@@ -49,6 +49,8 @@
     * [无人机刷怪](produce/rat/oasa/drone.md)
     * [【攻略】无人机 10-10 扩张自由无人机母巢](https://forums.winterco.org/t/topic/1382)
     * [土豆致富指南——无人机战斗信号攻略](https://forums.winterco.org/t/topic/1996)
+    * [伊什塔单刷10/10（视频）](produce/rat/oasa/ishtar1010.md)
+    * [# 金鹏速刷扩张自由无人机母巢（10-10）](produce/rat/oasa/tengu1010.md)
   * [血脉生产](produce/rat/branch/README.md)
     * [血脉生存指南 10-10YST 篇](produce/rat/branch/xie-mai-sheng-cun-zhi-nan-1010yst-pian.md)
 * [职业发展](produce/profession/README.md)
