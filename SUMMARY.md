@@ -47,7 +47,6 @@
   * [旗舰安全生产手册](produce/rat/super-safe.md)
   * [欧莎生产](produce/rat/oasa/README.md)
     * [无人机刷怪](produce/rat/oasa/drone.md)
-    * [金鹏速刷扩张自由无人机母巢（10-10）](produce/rat/oasa/jin-peng-su-shua-kuo-zhang-zi-you-wu-ren-ji-mu-chao-1010.md)
     * [【攻略】无人机 10-10 扩张自由无人机母巢](https://forums.winterco.org/t/topic/1382)
     * [土豆致富指南——无人机战斗信号攻略](https://forums.winterco.org/t/topic/1996)
   * [血脉生产](produce/rat/branch/README.md)
