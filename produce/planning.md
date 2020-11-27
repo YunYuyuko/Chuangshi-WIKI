@@ -188,7 +188,7 @@ T3C:金鹏（Tengu）、洛基（Loki），金鹏的重导射程远，洛基电�
 
 {% page-ref page="../produce/rat/oasa/ishtar1010.md" %}
 
-{% embed url="https://forums.winterco.org/t/topic/1382" caption="" %}
+{% embed url="https://forums.winterco.org/t/topic/1382/1" caption="" %}
 
 ### 挖土豆
 
