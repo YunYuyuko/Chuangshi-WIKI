@@ -59,6 +59,7 @@
   * [T2 制造入门](https://forums.winterco.org/t/topic/6402)
   * [考古挖坟入门](https://www.docdroid.net/QcaNyro/eve-by-pdf)
   * [新人打捞入门](produce/profession/salvage.md)
+* [新人发展参考](produce/planning.md)
 
 ## 机制 <a id="mechanics"></a>
 
