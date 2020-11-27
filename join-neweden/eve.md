@@ -67,7 +67,7 @@ EVE 是由一个大家不太熟悉，又看似不太起眼的冰岛小公司：C
 
 让我们把时钟的指针转回 2000 年，在 21 世纪的钟声敲响的那年，EVE 发布了第一部预告片，并在《GAMESPY》上公开了她的设计理念。
 
-[http://v.youku.com/v_show/id_XMjg1MDI4MTE2.html](http://v.youku.com/v_show/id_XMjg1MDI4MTE2.html)
+[http://v.youku.com/v\_show/id\_XMjg1MDI4MTE2.html](http://v.youku.com/v_show/id_XMjg1MDI4MTE2.html)
 
 当以上谈到的这些设计理念第一次被公开时，CCP 受到了当时游戏界的一致嘲笑：没有人相信这样一部不切实际的，想当然的，痴人说梦的，乌托邦式的游戏会有市场。
 
@@ -81,4 +81,5 @@ EVE 是由一个大家不太熟悉，又看似不太起眼的冰岛小公司：C
 
 是的，在这个无比真实，无比自由，只比现实世界慢一点点的宇宙中。
 
-[http://v.youku.com/v_show/id_XMzUwMjQxMDIw.html](http://v.youku.com/v_show/id_XMzUwMjQxMDIw.html)
+[http://v.youku.com/v\_show/id\_XMzUwMjQxMDIw.html](http://v.youku.com/v_show/id_XMzUwMjQxMDIw.html)
+
