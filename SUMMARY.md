@@ -55,7 +55,7 @@
   * [血脉生产](produce/rat/branch/README.md)
     * [血脉生存指南 10-10YST 篇](produce/rat/branch/xie-mai-sheng-cun-zhi-nan-1010yst-pian.md)
 * [职业发展](produce/profession/README.md)
-  * [行星开发入门](produce/profession/hang-xing-kai-fa-ru-men.md)
+  * [行星开发入门](produce/profession/pi.md)
   * [T2 制造入门](https://forums.winterco.org/t/topic/6402)
   * [考古挖坟入门](https://www.docdroid.net/QcaNyro/eve-by-pdf)
   * [新人打捞入门](produce/profession/salvage.md)
