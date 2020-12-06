@@ -1,10 +1,16 @@
 # 4.下载游戏
 
+## 一键安装包下载
+
+{% embed url="https://qinghao-my.sharepoint.cn/:u:/g/personal/qinghao\_procoding\_cn/EQdZoPtfUUtBqu-zo7CotEABMmZnhS9zrcQ-lZZ3fWCX9A?e=307AQI" caption="点击进去下载" %}
+
+
+
 ## 官网下载
 
 {% embed url="https://www.eveonline.com/download" caption="" %}
 
-点击`DOWNLOAD EVE ONLINE`下载登录器安装包，同时点 击`following file`下载数据包。
+点击`DOWNLOAD EVE ONLINE`下载登录器安装包，同时点 击`following file`下载数据包（建议使用迅雷下载）。
 
 另外，点击`DOWNLOAD EVE MAC CLIENT`下载 MAC 版本的登录器安装包。
 
