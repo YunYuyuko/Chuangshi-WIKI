@@ -2,7 +2,7 @@
 
 ## 一键安装包下载
 
-{% embed url="https://qinghao-my.sharepoint.cn/:u:/g/personal/qinghao\_procoding\_cn/EQdZoPtfUUtBqu-zo7CotEABMmZnhS9zrcQ-lZZ3fWCX9A?e=307AQI" caption="点击进去下载" %}
+{% embed url="https://qinghao-my.sharepoint.cn/personal/qinghao\_procoding\_cn/\_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fqinghao%5Fprocoding%5Fcn%2FDocuments%2FEVE%E5%B7%A5%E5%85%B7%2FEVE%E4%B8%96%E7%95%8C%E6%9C%8D%E5%AE%89%E8%A3%85%E5%8C%85%2Ezip" caption="丢进迅雷下载" %}
 
 
 
